@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url("../fonts/montserrat-v12-latin-700.woff2") format("woff2");
+  }
+  @font-face {
+    font-family: "Roboto";
+    src: url("../fonts/Roboto-Light.ttf") format("woff2");
+  }
+  
